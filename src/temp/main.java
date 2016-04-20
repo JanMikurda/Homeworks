@@ -18,6 +18,9 @@ public class main {
        shl.novyShipment("CZ", "East", "Apple", 100);
        shl.novyShipment("D", "West", "Dell", 105);
        shl.novyShipment("D", "West", "ASUS", 350);
+       
+       
+       
         
       // System.out.println(shl);
        
